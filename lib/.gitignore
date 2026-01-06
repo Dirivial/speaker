@@ -1,0 +1,17 @@
+# Build folders
+/.pio/
+/lib_deps/
+
+# Temporary files
+*.o
+*.d
+*.exe
+*.elf
+*.bin
+*.hex
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
